@@ -1,0 +1,483 @@
+TPostIMG
+v7
+r0
+t313515203.975140
+cCheck dependencies
+cProcessInfoPlistFile /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/Info.plist PostIMG-Info.plist
+cCompileXIB /Users/kukimoto/Program/PostIMG/MainWindow.xib
+cCompileXIB /Users/kukimoto/Program/PostIMG/PostIMGViewController.xib
+cCpResource build/Debug-iphonesimulator/PostIMG.app/default.png default.png
+cProcessPCH /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch.gch PostIMG_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/main.o /Users/kukimoto/Program/PostIMG/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGAppDelegate.o /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGViewController.o /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/NSStreamAdditions.o /Users/kukimoto/Program/PostIMG/NSStreamAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG normal i386
+cGenerateDSYMFile /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app.dSYM /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG
+cTouch /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.h
+c000000004CFD0EA200000000000001F8
+t1291652770
+s504
+i<UIKit/UIKit.h>
+
+N/Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m
+c000000004CFD0EC30000000000000B5C
+t1291652803
+s2908
+i"PostIMGAppDelegate.h"
+i"PostIMGViewController.h"
+
+N/Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.h
+c000000004CFFA53B0000000000000331
+t1291822395
+s817
+i<UIKit/UIKit.h>
+
+N/Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m
+c000000004CFFA4920000000000001326
+t1291822226
+s4902
+i"PostIMGViewController.h"
+i"NSStreamAdditions.h"
+
+N/Users/kukimoto/Program/PostIMG/MainWindow.xib
+c000000004CE6704B0000000000004E29
+t1290170443
+s20009
+
+N/Users/kukimoto/Program/PostIMG/NSStreamAdditions.h
+c000000004CB312BE0000000000000126
+t1286804158
+s294
+
+N/Users/kukimoto/Program/PostIMG/NSStreamAdditions.m
+c000000004CB3108D00000000000004CE
+t1286803597
+s1230
+i"NSStreamAdditions.h"
+
+N/Users/kukimoto/Program/PostIMG/PostIMGViewController.xib
+c000000004CE6A9570000000000005E64
+t1290185047
+s24164
+
+N/Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch
+c000000004CE6704B00000000000000B7
+t1290170443
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app
+t1291822403
+s272
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app.dSYM
+t1291822403
+s102
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/Info.plist
+t1291822401
+s638
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/MainWindow.nib
+t1291822402
+s1123
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PkgInfo
+t1291822401
+s8
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG
+t1291822403
+s25632
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMGViewController.nib
+t1291822402
+s1884
+
+N/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/default.png
+t1291822402
+s106251
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/NSStreamAdditions.o
+t1291822403
+s8480
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMG.LinkFileList
+c000000004CFFA54100000000000001F8
+t1291822401
+s504
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGAppDelegate.o
+t1291822403
+s56316
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGViewController.o
+t1291822403
+s65848
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/main.o
+t1291822403
+s6288
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/StaticAnalyzer/normal/i386/PostIMGAppDelegate.plist
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/StaticAnalyzer/normal/i386/PostIMGViewController.plist
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/default.png
+c000000004CE6A8950000000000019F0B
+t1290184853
+s106251
+
+N/Users/kukimoto/Program/PostIMG/main.m
+c000000004CE6704B0000000000000166
+t1290170443
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-bfrgmvhvaqkerkbmlhrrijbrysay/PostIMG_Prefix.pch.gch
+t1290179054
+s15211536
+
+N/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch.gch
+t1291822403
+s15453392
+
+NPostIMG-Info.plist
+c000000004CFD0F5300000000000003A2
+t1291652947
+s930
+
+CAnalyze /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m
+s311868660.483275
+e311868660.639750
+r1
+xAnalyze
+x/Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found
+o #include "/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@68"Analyze /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m311868660#311868660#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found #include "/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311868660#18446744073709551615#0#1(25@177"'/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found311868660#18446744073709551615#0#0(6@14"<command line>311868660#1#0#1#0#0"0(6@14"<command line>311868660#0#0#0#0#0"0(0#0#60"/Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m8620673024#1828"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch --analyze /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/StaticAnalyzer/normal/i386/PostIMGAppDelegate.plist0#
+
+CAnalyze /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m
+s311868660.520077
+e311868660.693665
+r1
+xAnalyze
+x/Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found
+o #include "/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@71"Analyze /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m311868660#311868660#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found #include "/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311868660#18446744073709551615#0#1(25@177"'/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found311868660#18446744073709551615#0#0(6@14"<command line>311868660#1#0#1#0#0"0(6@14"<command line>311868660#0#0#0#0#0"0(0#0#63"/Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m8617371552#1834"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch --analyze /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/StaticAnalyzer/normal/i386/PostIMGViewController.plist0#
+
+CAnalyze /Users/kukimoto/Program/PostIMG/main.m
+s311868660.308482
+e311868660.519975
+r1
+xAnalyze
+x/Users/kukimoto/Program/PostIMG/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found
+o #include "/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@46"Analyze /Users/kukimoto/Program/PostIMG/main.m311868660#311868660#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found #include "/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311868660#18446744073709551615#0#1(25@177"'/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch' file not found311868660#18446744073709551615#0#0(6@14"<command line>311868660#1#0#1#0#0"0(6@14"<command line>311868660#0#0#0#0#0"0(0#0#38"/Users/kukimoto/Program/PostIMG/main.m8622985504#1792"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch --analyze /Users/kukimoto/Program/PostIMG/main.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313515201#313515201#0(0"0(0#1#0"8639477408#0"0#
+
+CCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/NSStreamAdditions.o /Users/kukimoto/Program/PostIMG/NSStreamAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313515203.785194
+e313515203.854605
+r1
+xCompileC
+xbuild/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/NSStreamAdditions.o
+x/Users/kukimoto/Program/PostIMG/NSStreamAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/kukimoto/Program/PostIMG/NSStreamAdditions.m313515203#313515203#0(0"0(0#0#51"/Users/kukimoto/Program/PostIMG/NSStreamAdditions.m8637683680#1863"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch -c /Users/kukimoto/Program/PostIMG/NSStreamAdditions.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/NSStreamAdditions.o0#
+
+CCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGAppDelegate.o /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313515203.608934
+e313515203.785075
+r1
+xCompileC
+xbuild/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGAppDelegate.o
+x/Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m313515203#313515203#0(0"0(0#0#60"/Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m8636352000#1873"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch -c /Users/kukimoto/Program/PostIMG/Classes/PostIMGAppDelegate.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGAppDelegate.o0#
+
+CCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGViewController.o /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313515203.713281
+e313515203.894393
+r1
+xCompileC
+xbuild/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGViewController.o
+x/Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m313515203#313515203#0(0"0(0#0#63"/Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m8634967072#1879"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch -c /Users/kukimoto/Program/PostIMG/Classes/PostIMGViewController.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMGViewController.o0#
+
+CCompileC build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/main.o /Users/kukimoto/Program/PostIMG/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313515203.607570
+e313515203.713162
+r1
+xCompileC
+xbuild/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/main.o
+x/Users/kukimoto/Program/PostIMG/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/kukimoto/Program/PostIMG/main.m313515203#313515203#0(0"0(0#0#38"/Users/kukimoto/Program/PostIMG/main.m8610095552#1837"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -include /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch -c /Users/kukimoto/Program/PostIMG/main.m -o /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kukimoto/Program/PostIMG/MainWindow.xib
+s313515201.450262
+e313515202.138015
+r1
+xCompileXIB
+x/Users/kukimoto/Program/PostIMG/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313515201#313515202#0(0"0(0#0#46"/Users/kukimoto/Program/PostIMG/MainWindow.xib21673886746935412#549"    cd /Users/kukimoto/Program/PostIMG    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/MainWindow.nib /Users/kukimoto/Program/PostIMG/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kukimoto/Program/PostIMG/PostIMGViewController.xib
+s313515201.451166
+e313515202.211592
+r1
+xCompileXIB
+x/Users/kukimoto/Program/PostIMG/PostIMGViewController.xib
+lSLF07#2@36"CompileXIB PostIMGViewController.xib313515201#313515202#0(0"0(0#0#57"/Users/kukimoto/Program/PostIMG/PostIMGViewController.xib8636475840#571"    cd /Users/kukimoto/Program/PostIMG    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMGViewController.nib /Users/kukimoto/Program/PostIMG/PostIMGViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/PostIMG.app/default.png default.png
+s313515202.138118
+e313515202.172103
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/PostIMG.app/default.png
+xdefault.png
+lSLF07#2@16"Copy default.png313515202#313515202#0(0"0(0#0#43"/Users/kukimoto/Program/PostIMG/default.png8639573344#448"    cd /Users/kukimoto/Program/PostIMG    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/kukimoto/Program/PostIMG/default.png /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app0#
+
+CGenerateDSYMFile /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app.dSYM /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG
+s313515203.929215
+e313515203.969821
+r1
+xGenerateDSYMFile
+x/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app.dSYM
+x/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/PostIMG.app.dSYM build/Debug-iphonesimulator/PostIMG.app/PostIMG313515203#313515203#0(0"0(0#0#79"/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG8635418496#362"    cd /Users/kukimoto/Program/PostIMG    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG -o /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app.dSYM0#
+
+CLd /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG normal i386
+s313515203.894488
+e313515203.929108
+r1
+xLd
+x/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG
+xnormal
+xi386
+lSLF07#2@84"Link /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG313515203#313515203#0(0"0(0#0#0"8637503968#865"    cd /Users/kukimoto/Program/PostIMG    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -filelist /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/Objects-normal/i386/PostIMG.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PostIMG0#
+
+CProcessInfoPlistFile /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/Info.plist PostIMG-Info.plist
+s313515201.428747
+e313515201.450156
+r1
+xProcessInfoPlistFile
+x/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/Info.plist
+xPostIMG-Info.plist
+lSLF07#2@26"Process PostIMG-Info.plist313515201#313515201#0(0"0(0#0#50"/Users/kukimoto/Program/PostIMG/PostIMG-Info.plist8636912896#458"    cd /Users/kukimoto/Program/PostIMG    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PostIMG-Info.plist -genpkginfo /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app/Info.plist0#
+
+CProcessPCH /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch.pth PostIMG_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s311868659.625083
+e311868660.236490
+r1
+xProcessPCH
+x/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch.pth
+xPostIMG_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@29"Precompile PostIMG_Prefix.pch311868659#311868660#0(8069"In file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors311868660#18446744073709551615#0#11(25@48"expected function body after function declarator311868660#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'311868660#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type311868660#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'311868660#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'311868660#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#50"/Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch8237188478304613376#1673"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -c /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch -o /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-axuotafierzkcufhrpzdsihhjqrd/PostIMG_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-bfrgmvhvaqkerkbmlhrrijbrysay/PostIMG_Prefix.pch.gch PostIMG_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311871853.465389
+e311871854.500131
+r1
+xProcessPCH
+x/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-bfrgmvhvaqkerkbmlhrrijbrysay/PostIMG_Prefix.pch.gch
+xPostIMG_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile PostIMG_Prefix.pch311871853#311871854#0(0"0(0#0#50"/Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch8623379392#1736"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -c /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch -o /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-bfrgmvhvaqkerkbmlhrrijbrysay/PostIMG_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch.gch PostIMG_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313515202.211720
+e313515203.607354
+r1
+xProcessPCH
+x/var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch.gch
+xPostIMG_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile PostIMG_Prefix.pch313515202#313515203#0(0"0(0#0#50"/Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch8639368544#1736"    cd /Users/kukimoto/Program/PostIMG    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-generated-files.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-own-target-headers.hmap -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-all-target-headers.hmap -iquote /Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/PostIMG-project-headers.hmap -F/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator -I/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/include -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources/i386 -I/Users/kukimoto/Program/PostIMG/build/PostIMG.build/Debug-iphonesimulator/PostIMG.build/DerivedSources -c /Users/kukimoto/Program/PostIMG/PostIMG_Prefix.pch -o /var/folders/TA/TA79lbv+FaC648zrf-sMBU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PostIMG_Prefix-dzjihsiprhfmkqegwtadfxzpfxti/PostIMG_Prefix.pch.gch0#
+
+CTouch /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app
+s313515203.969914
+e313515203.975087
+r1
+xTouch
+x/Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app
+lSLF07#2@77"Touch /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app313515203#313515203#0(0"0(0#0#0"8640073088#264"    cd /Users/kukimoto/Program/PostIMG    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kukimoto/Program/PostIMG/build/Debug-iphonesimulator/PostIMG.app0#
+

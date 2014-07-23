@@ -1,0 +1,409 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PostIMGAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 457}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 504}";
+			sepNavWindowFrame = "{{15, 42}, {715, 836}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PostIMGAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1326}}";
+			sepNavSelRange = "{524, 0}";
+			sepNavVisRange = "{0, 859}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PostIMG */ = {
+		activeExec = 0;
+		executables = (
+			CCAF2EFB1296A7CB008FE922 /* PostIMG */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PostIMGViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 450}}";
+			sepNavSelRange = "{291, 63}";
+			sepNavVisRange = "{0, 817}";
+			sepNavWindowFrame = "{{563, 49}, {877, 829}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 2639}}";
+			sepNavSelRange = "{3683, 556}";
+			sepNavVisRange = "{3531, 1035}";
+			sepNavWindowFrame = "{{451, 49}, {877, 829}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CCAF2EFB1296A7CB008FE922 /* PostIMG */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PostIMG */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PostIMG */,
+		);
+		breakpoints = (
+			CCAF2F171296AA46008FE922 /* PostIMGViewController.m:110 */,
+			CCB3AD1412AE7DC000CA7C0F /* PostIMGViewController.m:61 */,
+			CCB3AD3812AE7F8800CA7C0F /* PostIMGViewController.m:91 */,
+			CCB3AD3A12AE7F9100CA7C0F /* PostIMGViewController.m:62 */,
+			CCB3AD5B12AE85F500CA7C0F /* PostIMGViewController.m:48 */,
+			CCB3AD6E12AE871C00CA7C0F /* PostIMGViewController.m:80 */,
+			CC3276A612AFDD3100352333 /* PostIMGViewController.m:46 */,
+			CC3276C812AFEDDB00352333 /* PostIMGViewController.m:66 */,
+			CC3276CA12AFEDE600352333 /* PostIMGViewController.m:74 */,
+			CC34314412B126FE001F8F87 /* PostIMGViewController.m:54 */,
+			CC34314612B12701001F8F87 /* PostIMGViewController.m:56 */,
+		);
+		codeSenseManager = CCAF2F0E1296A7F4008FE922 /* Code sense */;
+		executables = (
+			CCAF2EFB1296A7CB008FE922 /* PostIMG */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					842,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315471092;
+			PBXWorkspaceStateSaveDate = 315471092;
+		};
+		perUserProjectItems = {
+			CC051C7912AE649F0011389A /* PlistBookmark */ = CC051C7912AE649F0011389A /* PlistBookmark */;
+			CC089F2012CDE2D900C60FD8 /* PBXTextBookmark */ = CC089F2012CDE2D900C60FD8 /* PBXTextBookmark */;
+			CC3431C012B13E73001F8F87 /* PBXTextBookmark */ = CC3431C012B13E73001F8F87 /* PBXTextBookmark */;
+			CCE99D6412B90ED7000958B8 /* PBXTextBookmark */ = CCE99D6412B90ED7000958B8 /* PBXTextBookmark */;
+			CCE99D6512B90ED7000958B8 /* PBXTextBookmark */ = CCE99D6512B90ED7000958B8 /* PBXTextBookmark */;
+			CCE99D6712B90ED7000958B8 /* PBXTextBookmark */ = CCE99D6712B90ED7000958B8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CCAF2F0D1296A7F4008FE922 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* PostIMG-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{563, 49}, {877, 829}}";
+		};
+	};
+	CC051C7912AE649F0011389A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PostIMG-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kukimoto/Program/PostIMG/PostIMG-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CC089F2012CDE2D900C60FD8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PostIMGViewController.h */;
+		name = "PostIMGViewController.h: 11";
+		rLen = 63;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 0;
+	};
+	CC3276A612AFDD3100352333 /* PostIMGViewController.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-searchService";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = PostIMG;
+		modificationTime = 313606016.506393;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CC3276C812AFEDDB00352333 /* PostIMGViewController.m:66 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceBrowser:didFindService:moreComing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 66;
+		modificationTime = 313606016.5064229;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	CC3276CA12AFEDE600352333 /* PostIMGViewController.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceBrowser:didFindService:moreComing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		modificationTime = 313606033.775825;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	CC34314412B126FE001F8F87 /* PostIMGViewController.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceBrowser:didFindService:moreComing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		modificationTime = 313606033.7758;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	CC34314612B12701001F8F87 /* PostIMGViewController.m:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceBrowser:didFindService:moreComing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 56;
+		modificationTime = 313606033.775756;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	CC3431C012B13E73001F8F87 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PostIMGAppDelegate.m */;
+		name = "PostIMGAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 524;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 0;
+	};
+	CCAF2EFB1296A7CB008FE922 /* PostIMG */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PostIMG;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CCAF2F0D1296A7F4008FE922 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CCAF2F0E1296A7F4008FE922 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CCAF2F171296AA46008FE922 /* PostIMGViewController.m:110 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 110;
+		location = PostIMG;
+		modificationTime = 313606016.506094;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CCB3AD1412AE7DC000CA7C0F /* PostIMGViewController.m:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceBrowser:didFindService:moreComing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		location = PostIMG;
+		modificationTime = 313606016.506182;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CCB3AD3812AE7F8800CA7C0F /* PostIMGViewController.m:91 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 91;
+		location = PostIMG;
+		modificationTime = 313606016.50622;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CCB3AD3A12AE7F9100CA7C0F /* PostIMGViewController.m:62 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceBrowser:didFindService:moreComing:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 62;
+		modificationTime = 313606016.506259;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	CCB3AD5B12AE85F500CA7C0F /* PostIMGViewController.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-searchService";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = PostIMG;
+		modificationTime = 313606016.506296;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CCB3AD6E12AE871C00CA7C0F /* PostIMGViewController.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		functionName = "-netServiceDidResolveAddress:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = PostIMG;
+		modificationTime = 313606016.506349;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	CCE99D6412B90ED7000958B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PostIMGAppDelegate.h */;
+		name = "PostIMGAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	CCE99D6512B90ED7000958B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostIMGViewController.m */;
+		name = "PostIMGViewController.m: 148";
+		rLen = 556;
+		rLoc = 3683;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 3531;
+	};
+	CCE99D6712B90ED7000958B8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PostIMGViewController.h */;
+		name = "PostIMGViewController.h: 11";
+		rLen = 63;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 0;
+	};
+}

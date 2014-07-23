@@ -1,0 +1,63 @@
+TPostIMG
+v7
+r1
+
+N/Users/kukimoto/Program/PostIMG/MainWindow.xib
+c000000004CE6704B0000000000004E29
+t1290170443
+s20009
+
+N/Users/kukimoto/Program/PostIMG/PostIMGViewController.xib
+c000000004CE6A9570000000000005E64
+t1290185047
+s24164
+
+N/Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app/Contents/Info.plist
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app/Contents/Resources/PostIMGViewController.nib
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app/Contents/Resources/default.png
+t2
+s0
+
+N/Users/kukimoto/Program/PostIMG/default.png
+c000000004CE6A8950000000000019F0B
+t1290184853
+s106251
+
+NPostIMG-Info.plist
+c000000004CE6A8FB00000000000003A0
+t1290184955
+s928
+
+CCompileXIB /Users/kukimoto/Program/PostIMG/MainWindow.xib
+r0
+
+CCompileXIB /Users/kukimoto/Program/PostIMG/PostIMGViewController.xib
+r0
+
+CCpResource build/Debug/PostIMG.app/Contents/Resources/default.png default.png
+r0
+
+CProcessInfoPlistFile /Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app/Contents/Info.plist PostIMG-Info.plist
+r0
+
+CTouch /Users/kukimoto/Program/PostIMG/build/Debug/PostIMG.app
+r0
+
